@@ -1,0 +1,9 @@
+# Size of a square is 20 by 20
+TURTLE_SIZE = 20
+FOOD_BUFFER = 17
+DM = 600
+
+UP = 90
+RIGHT = 0
+LEFT = 180
+DOWN = 270
